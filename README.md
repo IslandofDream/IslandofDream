@@ -1,6 +1,6 @@
 - 💬 About me ... https://chartreuse-kookaburra-a53.notion.site/fa19c54becbd46e5a9e8ef563d11895b
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslandofDream&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslandofDream&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
