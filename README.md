@@ -1,12 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=IslandofDream)
 
-- 🌱 I’m currently learning Android ...
-- 💬 About me ... https://chartreuse-kookaburra-a53.notion.site/fa19c54becbd46e5a9e8ef563d11895b
-
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=black"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslandofDream&show_icons=true&theme=radical&count_private=true)
 
+- 💬 About me ... https://chartreuse-kookaburra-a53.notion.site/fa19c54becbd46e5a9e8ef563d11895b
 
 <!--
 **IslandofDream/IslandofDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
