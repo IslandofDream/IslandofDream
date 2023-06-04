@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e2cce7&height=300&section=header&text=Hello&desc=I`m%20JunWoo&descAlignY=55&descSize=30&fontSize=60&fontAlignY=40" />
 
 <div align = "center">
-   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e2cce7&height=300&section=header&text=Hello&desc=I`m%20JunWoo&descAlignY=55&descSize=30&fontSize=60&fontAlignY=40" />
+
 ![](https://komarev.com/ghpvc/?username=IslandofDream)
 
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=black"/>
@@ -13,10 +13,11 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslandofDream&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslandofDream&layout=compact)](https://github.com/IslandofDream)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhffldkt77)](https://solved.ac/rhffldkt77)
+
 ---
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhffldkt77)](https://solved.ac/rhffldkt77)
----
+
 💬 About me ... https://chartreuse-kookaburra-a53.notion.site/fa19c54becbd46e5a9e8ef563d11895b
 </div>
 <!--
