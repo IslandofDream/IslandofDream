@@ -10,6 +10,7 @@
 </a> <a href = "https://islandofdream.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://chartreuse-kookaburra-a53.notion.site/fa19c54becbd46e5a9e8ef563d11895b"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=black"> 
    
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslandofDream&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslandofDream&layout=compact)](https://github.com/IslandofDream)
 ---
